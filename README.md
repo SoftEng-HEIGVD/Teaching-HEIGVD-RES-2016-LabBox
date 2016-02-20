@@ -40,9 +40,12 @@ your-OS $ vagrant status
 your-OS $ vagrant halt
 ```
 
-## What's next?
+## Setup your GitHub environment
 
-We will use GitHub. A lot. So the very first thing that you want to do, is setup your ssh key so that you can authenticate yourself when cloning repos. The instructions are available on GitHub. 
+We will use GitHub. A lot. So the very first thing that you want to do is to setup your user name and email. This is crucial, because you don't want to appear as "vagrant" in the commit history and we will need you real identify. There are two commands to type, see [here](https://help.github.com/articles/set-up-git/).
+
+You then want to setup your ssh key so that you can authenticate yourself when cloning repos. The instructions are available on GitHub. 
+
 
  * Step 1 is described [here](https://help.github.com/articles/generating-a-new-ssh-key/#platform-linuvx).
   
