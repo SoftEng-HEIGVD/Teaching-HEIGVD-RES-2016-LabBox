@@ -1,4 +1,5 @@
 .vagrant
+./RES/repos/*
 
 *.class
 
