@@ -1,0 +1,1 @@
+Hello. I am a text file. I live in the file system of your laptop. But I am also mounted in the vagrant box. After doing a `vagrant ssh`, you will find me here `/vagrant/RES/whereAmI.md`.
