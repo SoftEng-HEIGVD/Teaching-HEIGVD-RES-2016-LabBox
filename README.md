@@ -10,7 +10,12 @@ Following the instructions will give you a working environment, where you will g
 
 2. **Install Vagrant on your machine**. You can download the bits [here](https://www.vagrantup.com/downloads.html). 
 
-**WARNING** for linux users: do not install vagrant with `apt-get install`. The repos contain old versions, which have caused us lots of problems in the past!
+
+**WARNING** for linux users : 
+
+1. For **Debian** and derivative: do not install vagrant with `apt-get install`. The repos contain old versions, which have caused us lots of problems in the past!
+
+2. For **Fedora**: vagrant should be installed via dnf or yum. Fedora has up to date packages in its repositories. VirtualBox can also be found in [rpmfusion.org](http://rpmfusion.org/Configuration) repositories, with an as up-to-date and better integration than on the official site. Once enabled, you only have to `sudo dnf install VirtualBox vagrant`
 
 ## Setup procedure
 
