@@ -6,7 +6,7 @@ Following the instructions will give you a working environment, where you will g
 
 ## Requirements
 
-1. **Install VirtualBox on your machine**. You can download the bits [here](https://www.virtualbox.org/wiki/Downloads).
+1. **Install VirtualBox on your machine**. You can download the bits [here](https://www.virtualbox.org/wiki/Downloads). WARNING (in particular for Windows users). Make sure that you have the very, very, very last version installed. We had issues with a previous minor update.
 
 2. **Install Vagrant on your machine**. You can download the bits [here](https://www.vagrantup.com/downloads.html). 
 
