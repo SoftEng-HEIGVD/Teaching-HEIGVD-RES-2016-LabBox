@@ -52,11 +52,9 @@ We will use GitHub. A lot. So the very first thing that you want to do is to set
 You then want to setup your ssh key so that you can authenticate yourself when cloning repos. The instructions are available on GitHub. 
 
 
- * Step 1 is described [here](https://help.github.com/articles/generating-a-new-ssh-key/#platform-linuvx).
+ * Step 1 is described [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux).
   
- * Step 2 is [here](https://help.github.com/articles/adding-a-new-ssh-key-to-the-ssh-agent/#platform-linux). 
- 
- * Step 3 is described [here](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/#platform-linux)
+ * Step 2 is [here](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/#platform-linux). 
 
 You should (also) do that within the box (after doing a `vagrant ssh`) if you want to use git commands there, which we strongly recommend.
 
